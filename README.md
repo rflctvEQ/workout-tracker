@@ -6,8 +6,7 @@
 This app allows users to track their daily workout routines by seeing a nice and clean visual representation of their workouts over time. It allows users to enter the details of multiple workouts per day, and these workouts can be under the category of either "resistance" or "cardio." Further iterations of this app will allow users more customizability, including the ability to create workout sessions (of which there could be multiple per day). There will also be an option to retroactively add workouts for days gone by. 
 
 ## Deployment
-This site has been deployed to Heroku. For this reason, it may take a short while to reach the first page, though it should work quickly and seamlessly after the initial load. To visit this website, simply follow this [link](https://afternoon-retreat-69044.herokuapp.com/) or enter the following into your address bar: https://afternoon-retreat-69044.herokuapp.com/. 
-
+This site has been deployed to Heroku. For this reason, it may take a short while to reach the first page, though it should work quickly and seamlessly after the initial load. To visit this website, simply follow this [link](https://stark-river-86497.herokuapp.com/?id=60aebcd1caf1210015dea5de) or enter the following into your address bar: https://stark-river-86497.herokuapp.com/?id=60aebcd1caf1210015dea5de .
 ## Table of Contents 
 - [Description](#description)
 - [Deployment](#deployment)
